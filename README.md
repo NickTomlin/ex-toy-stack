@@ -33,4 +33,4 @@ Stack.Worker.pop
 
 ## Why — for the love of all that is good — are you posting this on Github? It adds _nothing_
 
-So I have something to say for myself after spending a day when I could have been reading poetry or making [Chocolate Tahini Brownies](https://www.bonappetit.com/recipe/gluten-free-chocolate-tahini-brownies).
+So I have something to say for myself after spending a day reading about OTP when I could have been reading poetry or making [Chocolate Tahini Brownies](https://www.bonappetit.com/recipe/gluten-free-chocolate-tahini-brownies).
