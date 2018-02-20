@@ -1,4 +1,4 @@
-# Stack
+# Stack [![Build Status](https://travis-ci.org/NickTomlin/ex-toy-stack.svg?branch=master)](https://travis-ci.org/NickTomlin/ex-toy-stack)
 
 A toy GenServer "stack" from an assignment in ["Programming Elixir 1.3"](https://pragprog.com/book/elixir13/programming-elixir-1-3)
 
